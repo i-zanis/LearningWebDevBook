@@ -1,1 +1,136 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+			<title>Home - Teenage Mutant Ninja Turtles Pizza
+			
+			
+			
+		
+		
+		</title>
+		<header>
+			<nav>
+				<ul>
+					<li>
+						<input type=button onClick="parent.location='index.html'" value='Home'>
+					</li>
+					<li>
+						<input type=button onClick="parent.location='menu.html'" value='Menu'>
+					</li>
+					<li>
+						<input type=button onClick="parent.location='links.html'" value='Links'>
+					</li>
+					<li>
+						<input type=button onClick="parent.location='order.html'" value='Order'>
+					</li>
+					<li>
+						<input type=button onClick="parent.location='aboutus.html'" value='About us'>
+					</li>
+				</ul>
+			</nav>
+
+		</header>
+		<style>
+body {
+  text-align: center; background-color: #003e00;/*Green colour*/
+  margin: 0 10%;
+  font-family: sans-serif;
+  }
+ul {
+  list-style-type: none;
+  margin:  0;
+  padding: 0;
+}
+li {
+  display: inline;
+}
+nav {text-align: left; 
+}
+table, th, td {
+  border: 1px solid black;
+}
+h1 {
+  text-align: center;
+  font-family: serif;
+  font-weight: normal;
+  text-transform: uppercase;
+  border-bottom: 1px solid #57b1dc;/*teal colour*/
+  margin-top: 30px;
+}
+h2 {
+  color: #d1633c;/*orange-like colour*/
+  font-size: 1em;
+}
+footer {
+	  border-top: 1px solid #57b1dc;/*teal colour*/
+	  text-align: center;
+	  padding-top: 1em;
+}
+footer img {
+	width: 40px;
+	height: 40px;
+	margin-left: .5em;
+	margin-right: .5em;
+}
+</style>
+	</head>
+	<body>
+		<h1>
+			<img src="photos/TMNT_Pizza.png" alt="Pizza logo" width="500" height="200">
+				<br>Teenage Mutant Ninja Turtles Pizza
+				
+				
+				</h1>
+				<h2>The Restaurant</h2>
+				<p>Teenage Mutant Ninja Turtle pizza offers the hottest pizza experience in the city! Life needs a slice of peperoni! Who said that the turtles are 
+					<em>vegan!</em>
+				</p>
+				<h2>Takeaway</h2>
+				<p>If you don't feel like it... 
+					
+					
+					<em>We do the cooking.</em> You just need to come and collect your order.
+				
+				
+				</p>
+				<h2>Location and Hours</h2>
+				<p>Central Sewer, Broken Street 323, Ealing, Greater London
+					
+					
+					<br>
+						<table align="center" style="width:50%">
+							<tr>
+								<th>Monday to Thursday</th>
+								<th>Weekends</th>
+								<th>Bank Holidays</th>
+							</tr>
+							<tr>
+								<td>6pm to 6am</td>
+								<td>5pm to 6am</td>
+								<td>Always Open!</td>
+							</tr>
+						</table>
+					
+					<footer>
+						<p>Our social media pages</p>
+						<p>
+							<a href="http://www.twitter.com">
+								<img src="icons/twitter.svg" alt="twitter">
+								</a>
+								<a href="http://www.facebook.com">
+									<img src="icons/facebook.svg" alt="facebook">
+									</a>
+									<a href="http://www.instagram.com">
+										<img src="icons/instagram.svg" alt="instagram">
+										</a>
+									</p>
+									<p>
+										<small>All content copyright &copy; 2020, Teenage Mutant Ninja Turtle Pizza and Ioannis Lafazanis</small>
+
+								</footer><p><a href="validation/index-validation.pdf">
+										<img src="icons/w3c.jpg" alt="w3c validated logo"></a> </p>
+								
+							</body>
+						</html>
 
