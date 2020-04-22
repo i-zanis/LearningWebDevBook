@@ -26,7 +26,8 @@
 			</nav>
 
 		</header>
-		<style>
+	
+	<style>
 body {
   text-align: center; background-color: #003e00;/*Green colour*/
   margin: 0 10%;
